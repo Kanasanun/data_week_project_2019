@@ -1,0 +1,14 @@
+---
+title: "Crowd-Soured Data Analysis"
+author: "Kanasanun Phonrat"
+date: "21/05/2019"
+output: html_document
+---
+# Load data
+
+Our group of write ant thing in it do not need to follow it is fine to type anything Our group of intrepid scientists choose the 'faithful' dataset.
+
+```{r}
+df <- faithful
+```
+
